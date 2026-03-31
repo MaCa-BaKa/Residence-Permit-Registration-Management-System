@@ -1,5 +1,7 @@
 # 39-居住证管理系统（小程序）
 
+[文档地址](http://wechat.zjrcsy.cn/)
+
 ##### 技术栈: springBoot+Vue+Mysql+Uni-app
 
 ##### 功能点: 群众端   警方端   管理员端
@@ -110,4 +112,6 @@
 
 ![居住证管理8](https://yunzhuceshi.oss-cn-beijing.aliyuncs.com/typoraImg/居住证管理8.jpg)
 
-绿泡泡MaKaBaca0
+
+
+[文档地址](http://wechat.zjrcsy.cn/)
